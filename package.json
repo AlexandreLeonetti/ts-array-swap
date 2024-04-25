@@ -1,0 +1,27 @@
+{
+  "name": "@leonetti/ts-array-swap",
+  "version": "0.0.1",
+  "description": "array swap using typescript",
+  "repository": "alexandreleonetti/ts-array-swap",
+  "type": "module",
+  "exports": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "type",
+    "types"
+  ],
+  "author": {
+    "name": "Alex Leonetti",
+    "url": "https://github.com/AlexandreLeonetti"
+  },
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
